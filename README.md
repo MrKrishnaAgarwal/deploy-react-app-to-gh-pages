@@ -38,3 +38,7 @@ jobs:
 [![GitHub license](https://img.shields.io/github/license/MrKrishnaAgarwal/deploy-react-app-to-gh-pages?style=for-the-badge)](https://github.com/MrKrishnaAgarwal/deploy-react-app-to-gh-pages/blob/main/LICENSE)
 
 Copyright (c) 2022 MrKrishnaAgarwal
+
+
+### Improved version of:
+[Tanwanimohit's Action](https://github.com/tanwanimohit/deploy-react-to-ghpages)
