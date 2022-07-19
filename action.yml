@@ -1,4 +1,4 @@
-name: 'Deploy React app to GitHub Pages'
+name: 'Build & Deploy React app to GitHub Pages'
 description: 'GitHub Action to deploy React app in gh-pages branch.'
 author: 'MrKrishnaAgarwal <@MrKrishnaAgarwal>'
 branding:
